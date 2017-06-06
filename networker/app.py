@@ -4,7 +4,8 @@ from flask import Flask, render_template, url_for, Response
 import json
 import os.path as path
 
-app = Flask(__name__)
+this_dir, _ = path.split(__file__)
+app = Flask(__name__, template_folder=path.join(this_dir, "templates"))
 app.secret_key = "super_secret_pssst"
 
 
