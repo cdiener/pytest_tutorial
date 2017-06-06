@@ -1,0 +1,2044 @@
+{
+  "nodes": [
+    {
+      "group": "c",
+      "id": "13dpg_c"
+    },
+    {
+      "group": "c",
+      "id": "2pg_c"
+    },
+    {
+      "group": "c",
+      "id": "3pg_c"
+    },
+    {
+      "group": "c",
+      "id": "6pgc_c"
+    },
+    {
+      "group": "c",
+      "id": "6pgl_c"
+    },
+    {
+      "group": "c",
+      "id": "ac_c"
+    },
+    {
+      "group": "e",
+      "id": "ac_e"
+    },
+    {
+      "group": "c",
+      "id": "acald_c"
+    },
+    {
+      "group": "e",
+      "id": "acald_e"
+    },
+    {
+      "group": "c",
+      "id": "accoa_c"
+    },
+    {
+      "group": "c",
+      "id": "acon_C_c"
+    },
+    {
+      "group": "c",
+      "id": "actp_c"
+    },
+    {
+      "group": "c",
+      "id": "adp_c"
+    },
+    {
+      "group": "c",
+      "id": "akg_c"
+    },
+    {
+      "group": "e",
+      "id": "akg_e"
+    },
+    {
+      "group": "c",
+      "id": "amp_c"
+    },
+    {
+      "group": "c",
+      "id": "atp_c"
+    },
+    {
+      "group": "c",
+      "id": "cit_c"
+    },
+    {
+      "group": "c",
+      "id": "co2_c"
+    },
+    {
+      "group": "e",
+      "id": "co2_e"
+    },
+    {
+      "group": "c",
+      "id": "coa_c"
+    },
+    {
+      "group": "c",
+      "id": "dhap_c"
+    },
+    {
+      "group": "c",
+      "id": "e4p_c"
+    },
+    {
+      "group": "c",
+      "id": "etoh_c"
+    },
+    {
+      "group": "e",
+      "id": "etoh_e"
+    },
+    {
+      "group": "c",
+      "id": "f6p_c"
+    },
+    {
+      "group": "c",
+      "id": "fdp_c"
+    },
+    {
+      "group": "c",
+      "id": "for_c"
+    },
+    {
+      "group": "e",
+      "id": "for_e"
+    },
+    {
+      "group": "e",
+      "id": "fru_e"
+    },
+    {
+      "group": "c",
+      "id": "fum_c"
+    },
+    {
+      "group": "e",
+      "id": "fum_e"
+    },
+    {
+      "group": "c",
+      "id": "g3p_c"
+    },
+    {
+      "group": "c",
+      "id": "g6p_c"
+    },
+    {
+      "group": "e",
+      "id": "glc__D_e"
+    },
+    {
+      "group": "c",
+      "id": "gln__L_c"
+    },
+    {
+      "group": "e",
+      "id": "gln__L_e"
+    },
+    {
+      "group": "c",
+      "id": "glu__L_c"
+    },
+    {
+      "group": "e",
+      "id": "glu__L_e"
+    },
+    {
+      "group": "c",
+      "id": "glx_c"
+    },
+    {
+      "group": "c",
+      "id": "h2o_c"
+    },
+    {
+      "group": "e",
+      "id": "h2o_e"
+    },
+    {
+      "group": "c",
+      "id": "h_c"
+    },
+    {
+      "group": "e",
+      "id": "h_e"
+    },
+    {
+      "group": "c",
+      "id": "icit_c"
+    },
+    {
+      "group": "c",
+      "id": "lac__D_c"
+    },
+    {
+      "group": "e",
+      "id": "lac__D_e"
+    },
+    {
+      "group": "c",
+      "id": "mal__L_c"
+    },
+    {
+      "group": "e",
+      "id": "mal__L_e"
+    },
+    {
+      "group": "c",
+      "id": "nad_c"
+    },
+    {
+      "group": "c",
+      "id": "nadh_c"
+    },
+    {
+      "group": "c",
+      "id": "nadp_c"
+    },
+    {
+      "group": "c",
+      "id": "nadph_c"
+    },
+    {
+      "group": "c",
+      "id": "nh4_c"
+    },
+    {
+      "group": "e",
+      "id": "nh4_e"
+    },
+    {
+      "group": "c",
+      "id": "o2_c"
+    },
+    {
+      "group": "e",
+      "id": "o2_e"
+    },
+    {
+      "group": "c",
+      "id": "oaa_c"
+    },
+    {
+      "group": "c",
+      "id": "pep_c"
+    },
+    {
+      "group": "c",
+      "id": "pi_c"
+    },
+    {
+      "group": "e",
+      "id": "pi_e"
+    },
+    {
+      "group": "c",
+      "id": "pyr_c"
+    },
+    {
+      "group": "e",
+      "id": "pyr_e"
+    },
+    {
+      "group": "c",
+      "id": "q8_c"
+    },
+    {
+      "group": "c",
+      "id": "q8h2_c"
+    },
+    {
+      "group": "c",
+      "id": "r5p_c"
+    },
+    {
+      "group": "c",
+      "id": "ru5p__D_c"
+    },
+    {
+      "group": "c",
+      "id": "s7p_c"
+    },
+    {
+      "group": "c",
+      "id": "succ_c"
+    },
+    {
+      "group": "e",
+      "id": "succ_e"
+    },
+    {
+      "group": "c",
+      "id": "succoa_c"
+    },
+    {
+      "group": "c",
+      "id": "xu5p__D_c"
+    }
+  ],
+  "links": [
+    {
+      "target": "3pg_c",
+      "source": "2pg_c",
+      "value": 1
+    },
+    {
+      "target": "h2o_c",
+      "source": "2pg_c",
+      "value": 1
+    },
+    {
+      "target": "pep_c",
+      "source": "2pg_c",
+      "value": 1
+    },
+    {
+      "target": "13dpg_c",
+      "source": "3pg_c",
+      "value": 1
+    },
+    {
+      "target": "adp_c",
+      "source": "3pg_c",
+      "value": 2
+    },
+    {
+      "target": "akg_c",
+      "source": "3pg_c",
+      "value": 1
+    },
+    {
+      "target": "coa_c",
+      "source": "3pg_c",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "3pg_c",
+      "value": 1
+    },
+    {
+      "target": "nadh_c",
+      "source": "3pg_c",
+      "value": 1
+    },
+    {
+      "target": "nadp_c",
+      "source": "3pg_c",
+      "value": 1
+    },
+    {
+      "target": "pi_c",
+      "source": "3pg_c",
+      "value": 1
+    },
+    {
+      "target": "co2_c",
+      "source": "6pgc_c",
+      "value": 1
+    },
+    {
+      "target": "nadph_c",
+      "source": "6pgc_c",
+      "value": 1
+    },
+    {
+      "target": "ru5p__D_c",
+      "source": "6pgc_c",
+      "value": 1
+    },
+    {
+      "target": "6pgc_c",
+      "source": "6pgl_c",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "6pgl_c",
+      "value": 1
+    },
+    {
+      "target": "actp_c",
+      "source": "ac_c",
+      "value": 1
+    },
+    {
+      "target": "adp_c",
+      "source": "ac_c",
+      "value": 1
+    },
+    {
+      "target": "ac_c",
+      "source": "ac_e",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "ac_e",
+      "value": 1
+    },
+    {
+      "target": "accoa_c",
+      "source": "acald_c",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "acald_c",
+      "value": 1
+    },
+    {
+      "target": "nadh_c",
+      "source": "acald_c",
+      "value": 1
+    },
+    {
+      "target": "acald_c",
+      "source": "acald_e",
+      "value": 1
+    },
+    {
+      "target": "actp_c",
+      "source": "accoa_c",
+      "value": 1
+    },
+    {
+      "target": "adp_c",
+      "source": "accoa_c",
+      "value": 1
+    },
+    {
+      "target": "akg_c",
+      "source": "accoa_c",
+      "value": 1
+    },
+    {
+      "target": "cit_c",
+      "source": "accoa_c",
+      "value": 1
+    },
+    {
+      "target": "coa_c",
+      "source": "accoa_c",
+      "value": 4
+    },
+    {
+      "target": "h_c",
+      "source": "accoa_c",
+      "value": 3
+    },
+    {
+      "target": "mal__L_c",
+      "source": "accoa_c",
+      "value": 1
+    },
+    {
+      "target": "nadh_c",
+      "source": "accoa_c",
+      "value": 1
+    },
+    {
+      "target": "nadp_c",
+      "source": "accoa_c",
+      "value": 1
+    },
+    {
+      "target": "pi_c",
+      "source": "accoa_c",
+      "value": 1
+    },
+    {
+      "target": "icit_c",
+      "source": "acon_C_c",
+      "value": 1
+    },
+    {
+      "target": "atp_c",
+      "source": "adp_c",
+      "value": 2
+    },
+    {
+      "target": "h2o_c",
+      "source": "adp_c",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "adp_c",
+      "value": 1
+    },
+    {
+      "target": "pyr_c",
+      "source": "adp_c",
+      "value": 1
+    },
+    {
+      "target": "co2_c",
+      "source": "akg_c",
+      "value": 1
+    },
+    {
+      "target": "glu__L_c",
+      "source": "akg_c",
+      "value": 1
+    },
+    {
+      "target": "nadh_c",
+      "source": "akg_c",
+      "value": 1
+    },
+    {
+      "target": "nadp_c",
+      "source": "akg_c",
+      "value": 1
+    },
+    {
+      "target": "succoa_c",
+      "source": "akg_c",
+      "value": 1
+    },
+    {
+      "target": "akg_c",
+      "source": "akg_e",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "akg_e",
+      "value": 1
+    },
+    {
+      "target": "adp_c",
+      "source": "amp_c",
+      "value": 1
+    },
+    {
+      "target": "13dpg_c",
+      "source": "atp_c",
+      "value": 1
+    },
+    {
+      "target": "actp_c",
+      "source": "atp_c",
+      "value": 1
+    },
+    {
+      "target": "adp_c",
+      "source": "atp_c",
+      "value": 10
+    },
+    {
+      "target": "akg_c",
+      "source": "atp_c",
+      "value": 1
+    },
+    {
+      "target": "amp_c",
+      "source": "atp_c",
+      "value": 1
+    },
+    {
+      "target": "co2_c",
+      "source": "atp_c",
+      "value": 1
+    },
+    {
+      "target": "coa_c",
+      "source": "atp_c",
+      "value": 1
+    },
+    {
+      "target": "fdp_c",
+      "source": "atp_c",
+      "value": 1
+    },
+    {
+      "target": "gln__L_c",
+      "source": "atp_c",
+      "value": 2
+    },
+    {
+      "target": "h_c",
+      "source": "atp_c",
+      "value": 6
+    },
+    {
+      "target": "nadh_c",
+      "source": "atp_c",
+      "value": 1
+    },
+    {
+      "target": "nadp_c",
+      "source": "atp_c",
+      "value": 1
+    },
+    {
+      "target": "pep_c",
+      "source": "atp_c",
+      "value": 2
+    },
+    {
+      "target": "pi_c",
+      "source": "atp_c",
+      "value": 6
+    },
+    {
+      "target": "succoa_c",
+      "source": "atp_c",
+      "value": 1
+    },
+    {
+      "target": "acon_C_c",
+      "source": "cit_c",
+      "value": 1
+    },
+    {
+      "target": "h2o_c",
+      "source": "cit_c",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "co2_c",
+      "value": 1
+    },
+    {
+      "target": "oaa_c",
+      "source": "co2_c",
+      "value": 1
+    },
+    {
+      "target": "pi_c",
+      "source": "co2_c",
+      "value": 1
+    },
+    {
+      "target": "co2_c",
+      "source": "co2_e",
+      "value": 1
+    },
+    {
+      "target": "accoa_c",
+      "source": "coa_c",
+      "value": 3
+    },
+    {
+      "target": "adp_c",
+      "source": "coa_c",
+      "value": 1
+    },
+    {
+      "target": "co2_c",
+      "source": "coa_c",
+      "value": 2
+    },
+    {
+      "target": "for_c",
+      "source": "coa_c",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "coa_c",
+      "value": 1
+    },
+    {
+      "target": "nadh_c",
+      "source": "coa_c",
+      "value": 3
+    },
+    {
+      "target": "pi_c",
+      "source": "coa_c",
+      "value": 1
+    },
+    {
+      "target": "succoa_c",
+      "source": "coa_c",
+      "value": 2
+    },
+    {
+      "target": "g3p_c",
+      "source": "dhap_c",
+      "value": 1
+    },
+    {
+      "target": "adp_c",
+      "source": "e4p_c",
+      "value": 1
+    },
+    {
+      "target": "akg_c",
+      "source": "e4p_c",
+      "value": 1
+    },
+    {
+      "target": "coa_c",
+      "source": "e4p_c",
+      "value": 1
+    },
+    {
+      "target": "f6p_c",
+      "source": "e4p_c",
+      "value": 1
+    },
+    {
+      "target": "g3p_c",
+      "source": "e4p_c",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "e4p_c",
+      "value": 1
+    },
+    {
+      "target": "nadh_c",
+      "source": "e4p_c",
+      "value": 1
+    },
+    {
+      "target": "nadp_c",
+      "source": "e4p_c",
+      "value": 1
+    },
+    {
+      "target": "pi_c",
+      "source": "e4p_c",
+      "value": 1
+    },
+    {
+      "target": "acald_c",
+      "source": "etoh_c",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "etoh_c",
+      "value": 1
+    },
+    {
+      "target": "nadh_c",
+      "source": "etoh_c",
+      "value": 1
+    },
+    {
+      "target": "etoh_c",
+      "source": "etoh_e",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "etoh_e",
+      "value": 1
+    },
+    {
+      "target": "adp_c",
+      "source": "f6p_c",
+      "value": 2
+    },
+    {
+      "target": "akg_c",
+      "source": "f6p_c",
+      "value": 1
+    },
+    {
+      "target": "coa_c",
+      "source": "f6p_c",
+      "value": 1
+    },
+    {
+      "target": "fdp_c",
+      "source": "f6p_c",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "f6p_c",
+      "value": 2
+    },
+    {
+      "target": "nadh_c",
+      "source": "f6p_c",
+      "value": 1
+    },
+    {
+      "target": "nadp_c",
+      "source": "f6p_c",
+      "value": 1
+    },
+    {
+      "target": "pi_c",
+      "source": "f6p_c",
+      "value": 1
+    },
+    {
+      "target": "dhap_c",
+      "source": "fdp_c",
+      "value": 1
+    },
+    {
+      "target": "f6p_c",
+      "source": "fdp_c",
+      "value": 1
+    },
+    {
+      "target": "g3p_c",
+      "source": "fdp_c",
+      "value": 1
+    },
+    {
+      "target": "pi_c",
+      "source": "fdp_c",
+      "value": 1
+    },
+    {
+      "target": "for_e",
+      "source": "for_c",
+      "value": 1
+    },
+    {
+      "target": "for_c",
+      "source": "for_e",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "for_e",
+      "value": 1
+    },
+    {
+      "target": "f6p_c",
+      "source": "fru_e",
+      "value": 1
+    },
+    {
+      "target": "pyr_c",
+      "source": "fru_e",
+      "value": 1
+    },
+    {
+      "target": "mal__L_c",
+      "source": "fum_c",
+      "value": 1
+    },
+    {
+      "target": "q8_c",
+      "source": "fum_c",
+      "value": 1
+    },
+    {
+      "target": "succ_c",
+      "source": "fum_c",
+      "value": 1
+    },
+    {
+      "target": "fum_c",
+      "source": "fum_e",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "fum_e",
+      "value": 1
+    },
+    {
+      "target": "13dpg_c",
+      "source": "g3p_c",
+      "value": 1
+    },
+    {
+      "target": "adp_c",
+      "source": "g3p_c",
+      "value": 1
+    },
+    {
+      "target": "akg_c",
+      "source": "g3p_c",
+      "value": 1
+    },
+    {
+      "target": "coa_c",
+      "source": "g3p_c",
+      "value": 1
+    },
+    {
+      "target": "e4p_c",
+      "source": "g3p_c",
+      "value": 1
+    },
+    {
+      "target": "f6p_c",
+      "source": "g3p_c",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "g3p_c",
+      "value": 2
+    },
+    {
+      "target": "nadh_c",
+      "source": "g3p_c",
+      "value": 2
+    },
+    {
+      "target": "nadp_c",
+      "source": "g3p_c",
+      "value": 1
+    },
+    {
+      "target": "pi_c",
+      "source": "g3p_c",
+      "value": 1
+    },
+    {
+      "target": "6pgl_c",
+      "source": "g6p_c",
+      "value": 1
+    },
+    {
+      "target": "adp_c",
+      "source": "g6p_c",
+      "value": 1
+    },
+    {
+      "target": "akg_c",
+      "source": "g6p_c",
+      "value": 1
+    },
+    {
+      "target": "coa_c",
+      "source": "g6p_c",
+      "value": 1
+    },
+    {
+      "target": "f6p_c",
+      "source": "g6p_c",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "g6p_c",
+      "value": 2
+    },
+    {
+      "target": "nadh_c",
+      "source": "g6p_c",
+      "value": 1
+    },
+    {
+      "target": "nadp_c",
+      "source": "g6p_c",
+      "value": 1
+    },
+    {
+      "target": "nadph_c",
+      "source": "g6p_c",
+      "value": 1
+    },
+    {
+      "target": "pi_c",
+      "source": "g6p_c",
+      "value": 1
+    },
+    {
+      "target": "g6p_c",
+      "source": "glc__D_e",
+      "value": 1
+    },
+    {
+      "target": "pyr_c",
+      "source": "glc__D_e",
+      "value": 1
+    },
+    {
+      "target": "adp_c",
+      "source": "gln__L_c",
+      "value": 1
+    },
+    {
+      "target": "akg_c",
+      "source": "gln__L_c",
+      "value": 1
+    },
+    {
+      "target": "coa_c",
+      "source": "gln__L_c",
+      "value": 1
+    },
+    {
+      "target": "glu__L_c",
+      "source": "gln__L_c",
+      "value": 2
+    },
+    {
+      "target": "h_c",
+      "source": "gln__L_c",
+      "value": 1
+    },
+    {
+      "target": "nadh_c",
+      "source": "gln__L_c",
+      "value": 1
+    },
+    {
+      "target": "nadp_c",
+      "source": "gln__L_c",
+      "value": 2
+    },
+    {
+      "target": "nh4_c",
+      "source": "gln__L_c",
+      "value": 1
+    },
+    {
+      "target": "pi_c",
+      "source": "gln__L_c",
+      "value": 1
+    },
+    {
+      "target": "adp_c",
+      "source": "gln__L_e",
+      "value": 1
+    },
+    {
+      "target": "gln__L_c",
+      "source": "gln__L_e",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "gln__L_e",
+      "value": 1
+    },
+    {
+      "target": "pi_c",
+      "source": "gln__L_e",
+      "value": 1
+    },
+    {
+      "target": "adp_c",
+      "source": "glu__L_c",
+      "value": 2
+    },
+    {
+      "target": "akg_c",
+      "source": "glu__L_c",
+      "value": 2
+    },
+    {
+      "target": "coa_c",
+      "source": "glu__L_c",
+      "value": 1
+    },
+    {
+      "target": "gln__L_c",
+      "source": "glu__L_c",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "glu__L_c",
+      "value": 3
+    },
+    {
+      "target": "nadh_c",
+      "source": "glu__L_c",
+      "value": 1
+    },
+    {
+      "target": "nadp_c",
+      "source": "glu__L_c",
+      "value": 1
+    },
+    {
+      "target": "nadph_c",
+      "source": "glu__L_c",
+      "value": 1
+    },
+    {
+      "target": "nh4_c",
+      "source": "glu__L_c",
+      "value": 1
+    },
+    {
+      "target": "pi_c",
+      "source": "glu__L_c",
+      "value": 2
+    },
+    {
+      "target": "glu__L_c",
+      "source": "glu__L_e",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "glu__L_e",
+      "value": 1
+    },
+    {
+      "target": "coa_c",
+      "source": "glx_c",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "glx_c",
+      "value": 1
+    },
+    {
+      "target": "mal__L_c",
+      "source": "glx_c",
+      "value": 1
+    },
+    {
+      "target": "6pgc_c",
+      "source": "h2o_c",
+      "value": 1
+    },
+    {
+      "target": "adp_c",
+      "source": "h2o_c",
+      "value": 3
+    },
+    {
+      "target": "akg_c",
+      "source": "h2o_c",
+      "value": 2
+    },
+    {
+      "target": "amp_c",
+      "source": "h2o_c",
+      "value": 1
+    },
+    {
+      "target": "cit_c",
+      "source": "h2o_c",
+      "value": 1
+    },
+    {
+      "target": "coa_c",
+      "source": "h2o_c",
+      "value": 3
+    },
+    {
+      "target": "f6p_c",
+      "source": "h2o_c",
+      "value": 1
+    },
+    {
+      "target": "gln__L_c",
+      "source": "h2o_c",
+      "value": 1
+    },
+    {
+      "target": "glu__L_c",
+      "source": "h2o_c",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "h2o_c",
+      "value": 9
+    },
+    {
+      "target": "icit_c",
+      "source": "h2o_c",
+      "value": 1
+    },
+    {
+      "target": "mal__L_c",
+      "source": "h2o_c",
+      "value": 2
+    },
+    {
+      "target": "nadh_c",
+      "source": "h2o_c",
+      "value": 1
+    },
+    {
+      "target": "nadp_c",
+      "source": "h2o_c",
+      "value": 1
+    },
+    {
+      "target": "nadph_c",
+      "source": "h2o_c",
+      "value": 1
+    },
+    {
+      "target": "nh4_c",
+      "source": "h2o_c",
+      "value": 2
+    },
+    {
+      "target": "oaa_c",
+      "source": "h2o_c",
+      "value": 1
+    },
+    {
+      "target": "pep_c",
+      "source": "h2o_c",
+      "value": 1
+    },
+    {
+      "target": "pi_c",
+      "source": "h2o_c",
+      "value": 6
+    },
+    {
+      "target": "h2o_c",
+      "source": "h2o_e",
+      "value": 1
+    },
+    {
+      "target": "atp_c",
+      "source": "h_c",
+      "value": 1
+    },
+    {
+      "target": "glu__L_c",
+      "source": "h_c",
+      "value": 1
+    },
+    {
+      "target": "h2o_c",
+      "source": "h_c",
+      "value": 1
+    },
+    {
+      "target": "h_e",
+      "source": "h_c",
+      "value": 2
+    },
+    {
+      "target": "nad_c",
+      "source": "h_c",
+      "value": 1
+    },
+    {
+      "target": "nadp_c",
+      "source": "h_c",
+      "value": 1
+    },
+    {
+      "target": "pyr_c",
+      "source": "h_c",
+      "value": 1
+    },
+    {
+      "target": "q8_c",
+      "source": "h_c",
+      "value": 1
+    },
+    {
+      "target": "q8h2_c",
+      "source": "h_c",
+      "value": 1
+    },
+    {
+      "target": "ac_c",
+      "source": "h_e",
+      "value": 1
+    },
+    {
+      "target": "akg_c",
+      "source": "h_e",
+      "value": 1
+    },
+    {
+      "target": "atp_c",
+      "source": "h_e",
+      "value": 1
+    },
+    {
+      "target": "etoh_c",
+      "source": "h_e",
+      "value": 1
+    },
+    {
+      "target": "for_c",
+      "source": "h_e",
+      "value": 1
+    },
+    {
+      "target": "fum_c",
+      "source": "h_e",
+      "value": 1
+    },
+    {
+      "target": "glu__L_c",
+      "source": "h_e",
+      "value": 1
+    },
+    {
+      "target": "h2o_c",
+      "source": "h_e",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "h_e",
+      "value": 14
+    },
+    {
+      "target": "lac__D_c",
+      "source": "h_e",
+      "value": 1
+    },
+    {
+      "target": "mal__L_c",
+      "source": "h_e",
+      "value": 1
+    },
+    {
+      "target": "nad_c",
+      "source": "h_e",
+      "value": 1
+    },
+    {
+      "target": "nadph_c",
+      "source": "h_e",
+      "value": 1
+    },
+    {
+      "target": "pi_c",
+      "source": "h_e",
+      "value": 1
+    },
+    {
+      "target": "pyr_c",
+      "source": "h_e",
+      "value": 1
+    },
+    {
+      "target": "succ_c",
+      "source": "h_e",
+      "value": 1
+    },
+    {
+      "target": "succ_e",
+      "source": "h_e",
+      "value": 1
+    },
+    {
+      "target": "akg_c",
+      "source": "icit_c",
+      "value": 1
+    },
+    {
+      "target": "co2_c",
+      "source": "icit_c",
+      "value": 1
+    },
+    {
+      "target": "glx_c",
+      "source": "icit_c",
+      "value": 1
+    },
+    {
+      "target": "nadph_c",
+      "source": "icit_c",
+      "value": 1
+    },
+    {
+      "target": "succ_c",
+      "source": "icit_c",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "lac__D_c",
+      "value": 1
+    },
+    {
+      "target": "nadh_c",
+      "source": "lac__D_c",
+      "value": 1
+    },
+    {
+      "target": "pyr_c",
+      "source": "lac__D_c",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "lac__D_e",
+      "value": 1
+    },
+    {
+      "target": "lac__D_c",
+      "source": "lac__D_e",
+      "value": 1
+    },
+    {
+      "target": "co2_c",
+      "source": "mal__L_c",
+      "value": 2
+    },
+    {
+      "target": "h_c",
+      "source": "mal__L_c",
+      "value": 1
+    },
+    {
+      "target": "nadh_c",
+      "source": "mal__L_c",
+      "value": 2
+    },
+    {
+      "target": "nadph_c",
+      "source": "mal__L_c",
+      "value": 1
+    },
+    {
+      "target": "oaa_c",
+      "source": "mal__L_c",
+      "value": 1
+    },
+    {
+      "target": "pyr_c",
+      "source": "mal__L_c",
+      "value": 2
+    },
+    {
+      "target": "h_c",
+      "source": "mal__L_e",
+      "value": 1
+    },
+    {
+      "target": "mal__L_c",
+      "source": "mal__L_e",
+      "value": 1
+    },
+    {
+      "target": "13dpg_c",
+      "source": "nad_c",
+      "value": 1
+    },
+    {
+      "target": "acald_c",
+      "source": "nad_c",
+      "value": 1
+    },
+    {
+      "target": "accoa_c",
+      "source": "nad_c",
+      "value": 2
+    },
+    {
+      "target": "adp_c",
+      "source": "nad_c",
+      "value": 1
+    },
+    {
+      "target": "akg_c",
+      "source": "nad_c",
+      "value": 1
+    },
+    {
+      "target": "co2_c",
+      "source": "nad_c",
+      "value": 3
+    },
+    {
+      "target": "coa_c",
+      "source": "nad_c",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "nad_c",
+      "value": 6
+    },
+    {
+      "target": "nadh_c",
+      "source": "nad_c",
+      "value": 10
+    },
+    {
+      "target": "nadp_c",
+      "source": "nad_c",
+      "value": 2
+    },
+    {
+      "target": "oaa_c",
+      "source": "nad_c",
+      "value": 1
+    },
+    {
+      "target": "pi_c",
+      "source": "nad_c",
+      "value": 1
+    },
+    {
+      "target": "pyr_c",
+      "source": "nad_c",
+      "value": 2
+    },
+    {
+      "target": "succoa_c",
+      "source": "nad_c",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "nadh_c",
+      "value": 1
+    },
+    {
+      "target": "h_e",
+      "source": "nadh_c",
+      "value": 1
+    },
+    {
+      "target": "nad_c",
+      "source": "nadh_c",
+      "value": 2
+    },
+    {
+      "target": "nadph_c",
+      "source": "nadh_c",
+      "value": 1
+    },
+    {
+      "target": "q8h2_c",
+      "source": "nadh_c",
+      "value": 1
+    },
+    {
+      "target": "6pgl_c",
+      "source": "nadp_c",
+      "value": 1
+    },
+    {
+      "target": "akg_c",
+      "source": "nadp_c",
+      "value": 2
+    },
+    {
+      "target": "co2_c",
+      "source": "nadp_c",
+      "value": 3
+    },
+    {
+      "target": "h_c",
+      "source": "nadp_c",
+      "value": 3
+    },
+    {
+      "target": "nad_c",
+      "source": "nadp_c",
+      "value": 1
+    },
+    {
+      "target": "nadph_c",
+      "source": "nadp_c",
+      "value": 6
+    },
+    {
+      "target": "nh4_c",
+      "source": "nadp_c",
+      "value": 1
+    },
+    {
+      "target": "pyr_c",
+      "source": "nadp_c",
+      "value": 1
+    },
+    {
+      "target": "ru5p__D_c",
+      "source": "nadp_c",
+      "value": 1
+    },
+    {
+      "target": "adp_c",
+      "source": "nadph_c",
+      "value": 1
+    },
+    {
+      "target": "akg_c",
+      "source": "nadph_c",
+      "value": 1
+    },
+    {
+      "target": "coa_c",
+      "source": "nadph_c",
+      "value": 1
+    },
+    {
+      "target": "glu__L_c",
+      "source": "nadph_c",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "nadph_c",
+      "value": 1
+    },
+    {
+      "target": "nadh_c",
+      "source": "nadph_c",
+      "value": 2
+    },
+    {
+      "target": "nadp_c",
+      "source": "nadph_c",
+      "value": 3
+    },
+    {
+      "target": "pi_c",
+      "source": "nadph_c",
+      "value": 1
+    },
+    {
+      "target": "adp_c",
+      "source": "nh4_c",
+      "value": 1
+    },
+    {
+      "target": "gln__L_c",
+      "source": "nh4_c",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "nh4_c",
+      "value": 1
+    },
+    {
+      "target": "pi_c",
+      "source": "nh4_c",
+      "value": 1
+    },
+    {
+      "target": "nh4_c",
+      "source": "nh4_e",
+      "value": 1
+    },
+    {
+      "target": "h2o_c",
+      "source": "o2_c",
+      "value": 1
+    },
+    {
+      "target": "h_e",
+      "source": "o2_c",
+      "value": 1
+    },
+    {
+      "target": "q8_c",
+      "source": "o2_c",
+      "value": 1
+    },
+    {
+      "target": "o2_c",
+      "source": "o2_e",
+      "value": 1
+    },
+    {
+      "target": "adp_c",
+      "source": "oaa_c",
+      "value": 2
+    },
+    {
+      "target": "akg_c",
+      "source": "oaa_c",
+      "value": 1
+    },
+    {
+      "target": "cit_c",
+      "source": "oaa_c",
+      "value": 1
+    },
+    {
+      "target": "co2_c",
+      "source": "oaa_c",
+      "value": 1
+    },
+    {
+      "target": "coa_c",
+      "source": "oaa_c",
+      "value": 2
+    },
+    {
+      "target": "h_c",
+      "source": "oaa_c",
+      "value": 2
+    },
+    {
+      "target": "nadh_c",
+      "source": "oaa_c",
+      "value": 1
+    },
+    {
+      "target": "nadp_c",
+      "source": "oaa_c",
+      "value": 1
+    },
+    {
+      "target": "pep_c",
+      "source": "oaa_c",
+      "value": 1
+    },
+    {
+      "target": "pi_c",
+      "source": "oaa_c",
+      "value": 1
+    },
+    {
+      "target": "adp_c",
+      "source": "pep_c",
+      "value": 1
+    },
+    {
+      "target": "akg_c",
+      "source": "pep_c",
+      "value": 1
+    },
+    {
+      "target": "atp_c",
+      "source": "pep_c",
+      "value": 1
+    },
+    {
+      "target": "coa_c",
+      "source": "pep_c",
+      "value": 1
+    },
+    {
+      "target": "f6p_c",
+      "source": "pep_c",
+      "value": 1
+    },
+    {
+      "target": "g6p_c",
+      "source": "pep_c",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "pep_c",
+      "value": 2
+    },
+    {
+      "target": "nadh_c",
+      "source": "pep_c",
+      "value": 1
+    },
+    {
+      "target": "nadp_c",
+      "source": "pep_c",
+      "value": 1
+    },
+    {
+      "target": "oaa_c",
+      "source": "pep_c",
+      "value": 1
+    },
+    {
+      "target": "pi_c",
+      "source": "pep_c",
+      "value": 2
+    },
+    {
+      "target": "pyr_c",
+      "source": "pep_c",
+      "value": 3
+    },
+    {
+      "target": "13dpg_c",
+      "source": "pi_c",
+      "value": 1
+    },
+    {
+      "target": "actp_c",
+      "source": "pi_c",
+      "value": 1
+    },
+    {
+      "target": "atp_c",
+      "source": "pi_c",
+      "value": 1
+    },
+    {
+      "target": "coa_c",
+      "source": "pi_c",
+      "value": 1
+    },
+    {
+      "target": "h2o_c",
+      "source": "pi_c",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "pi_c",
+      "value": 2
+    },
+    {
+      "target": "nadh_c",
+      "source": "pi_c",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "pi_e",
+      "value": 1
+    },
+    {
+      "target": "pi_c",
+      "source": "pi_e",
+      "value": 1
+    },
+    {
+      "target": "accoa_c",
+      "source": "pyr_c",
+      "value": 2
+    },
+    {
+      "target": "adp_c",
+      "source": "pyr_c",
+      "value": 1
+    },
+    {
+      "target": "akg_c",
+      "source": "pyr_c",
+      "value": 1
+    },
+    {
+      "target": "amp_c",
+      "source": "pyr_c",
+      "value": 1
+    },
+    {
+      "target": "co2_c",
+      "source": "pyr_c",
+      "value": 1
+    },
+    {
+      "target": "coa_c",
+      "source": "pyr_c",
+      "value": 1
+    },
+    {
+      "target": "for_c",
+      "source": "pyr_c",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "pyr_c",
+      "value": 2
+    },
+    {
+      "target": "nadh_c",
+      "source": "pyr_c",
+      "value": 2
+    },
+    {
+      "target": "nadp_c",
+      "source": "pyr_c",
+      "value": 1
+    },
+    {
+      "target": "pep_c",
+      "source": "pyr_c",
+      "value": 1
+    },
+    {
+      "target": "pi_c",
+      "source": "pyr_c",
+      "value": 2
+    },
+    {
+      "target": "h_c",
+      "source": "pyr_e",
+      "value": 1
+    },
+    {
+      "target": "pyr_c",
+      "source": "pyr_e",
+      "value": 1
+    },
+    {
+      "target": "fum_c",
+      "source": "q8_c",
+      "value": 1
+    },
+    {
+      "target": "h_e",
+      "source": "q8_c",
+      "value": 1
+    },
+    {
+      "target": "nad_c",
+      "source": "q8_c",
+      "value": 1
+    },
+    {
+      "target": "q8h2_c",
+      "source": "q8_c",
+      "value": 2
+    },
+    {
+      "target": "h2o_c",
+      "source": "q8h2_c",
+      "value": 1
+    },
+    {
+      "target": "h_e",
+      "source": "q8h2_c",
+      "value": 1
+    },
+    {
+      "target": "q8_c",
+      "source": "q8h2_c",
+      "value": 2
+    },
+    {
+      "target": "succ_c",
+      "source": "q8h2_c",
+      "value": 1
+    },
+    {
+      "target": "adp_c",
+      "source": "r5p_c",
+      "value": 1
+    },
+    {
+      "target": "akg_c",
+      "source": "r5p_c",
+      "value": 1
+    },
+    {
+      "target": "coa_c",
+      "source": "r5p_c",
+      "value": 1
+    },
+    {
+      "target": "g3p_c",
+      "source": "r5p_c",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "r5p_c",
+      "value": 1
+    },
+    {
+      "target": "nadh_c",
+      "source": "r5p_c",
+      "value": 1
+    },
+    {
+      "target": "nadp_c",
+      "source": "r5p_c",
+      "value": 1
+    },
+    {
+      "target": "pi_c",
+      "source": "r5p_c",
+      "value": 1
+    },
+    {
+      "target": "ru5p__D_c",
+      "source": "r5p_c",
+      "value": 1
+    },
+    {
+      "target": "s7p_c",
+      "source": "r5p_c",
+      "value": 1
+    },
+    {
+      "target": "xu5p__D_c",
+      "source": "ru5p__D_c",
+      "value": 1
+    },
+    {
+      "target": "e4p_c",
+      "source": "s7p_c",
+      "value": 1
+    },
+    {
+      "target": "f6p_c",
+      "source": "s7p_c",
+      "value": 1
+    },
+    {
+      "target": "adp_c",
+      "source": "succ_c",
+      "value": 1
+    },
+    {
+      "target": "fum_c",
+      "source": "succ_c",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "succ_c",
+      "value": 1
+    },
+    {
+      "target": "pi_c",
+      "source": "succ_c",
+      "value": 1
+    },
+    {
+      "target": "q8h2_c",
+      "source": "succ_c",
+      "value": 1
+    },
+    {
+      "target": "succ_e",
+      "source": "succ_c",
+      "value": 1
+    },
+    {
+      "target": "succoa_c",
+      "source": "succ_c",
+      "value": 1
+    },
+    {
+      "target": "h_c",
+      "source": "succ_e",
+      "value": 1
+    },
+    {
+      "target": "succ_c",
+      "source": "succ_e",
+      "value": 1
+    },
+    {
+      "target": "f6p_c",
+      "source": "xu5p__D_c",
+      "value": 1
+    },
+    {
+      "target": "g3p_c",
+      "source": "xu5p__D_c",
+      "value": 2
+    },
+    {
+      "target": "s7p_c",
+      "source": "xu5p__D_c",
+      "value": 1
+    }
+  ]
+}

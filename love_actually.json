@@ -1,0 +1,1386 @@
+{
+  "nodes": [
+    {
+      "id": "Natalie (Martine McCutcheon)",
+      "group": "Natalie (Martine McCutcheon)"
+    },
+    {
+      "id": "PM (Hugh Grant)",
+      "group": "PM (Hugh Grant)"
+    },
+    {
+      "id": "Aurelia (Lúcia Moniz)",
+      "group": "Aurelia (Lúcia Moniz)"
+    },
+    {
+      "id": "Jamie (Colin Firth)",
+      "group": "Jamie (Colin Firth)"
+    },
+    {
+      "id": "Daniel (Liam Neeson)",
+      "group": "Daniel (Liam Neeson)"
+    },
+    {
+      "id": "Sam (Thomas Sangster)",
+      "group": "Sam (Thomas Sangster)"
+    },
+    {
+      "id": "Jack (Martin Freeman)",
+      "group": "Jack (Martin Freeman)"
+    },
+    {
+      "id": "Judy (Joanna Page)",
+      "group": "Judy (Joanna Page)"
+    },
+    {
+      "id": "Colin (Kris Marshall)",
+      "group": "Colin (Kris Marshall)"
+    },
+    {
+      "id": "Tony (Abdul Salis)",
+      "group": "Tony (Abdul Salis)"
+    },
+    {
+      "id": "Billy (Bill Nighy)",
+      "group": "Billy (Bill Nighy)"
+    },
+    {
+      "id": "Joe (Gregor Fisher)",
+      "group": "Joe (Gregor Fisher)"
+    },
+    {
+      "id": "Mark (Andrew Lincoln)",
+      "group": "Mark (Andrew Lincoln)"
+    },
+    {
+      "id": "Juliet (Keira Knightley)",
+      "group": "Juliet (Keira Knightley)"
+    },
+    {
+      "id": "Peter (Chiwetel Ejiofor)",
+      "group": "Peter (Chiwetel Ejiofor)"
+    },
+    {
+      "id": "Karl (Rodrigo Santoro)",
+      "group": "Karl (Rodrigo Santoro)"
+    },
+    {
+      "id": "Sarah (Laura Linney)",
+      "group": "Sarah (Laura Linney)"
+    },
+    {
+      "id": "Mia (Heike Makatsch)",
+      "group": "Mia (Heike Makatsch)"
+    },
+    {
+      "id": "Harry (Alan Rickman)",
+      "group": "Harry (Alan Rickman)"
+    },
+    {
+      "id": "Karen (Emma Thompson)",
+      "group": "Karen (Emma Thompson)"
+    }
+  ],
+  "links": [
+    {
+      "source": "Billy (Bill Nighy)",
+      "target": "Billy (Bill Nighy)",
+      "value": 2.0175
+    },
+    {
+      "source": "Joe (Gregor Fisher)",
+      "target": "Billy (Bill Nighy)",
+      "value": 2.0175
+    },
+    {
+      "source": "Billy (Bill Nighy)",
+      "target": "Joe (Gregor Fisher)",
+      "value": 2.0175
+    },
+    {
+      "source": "Joe (Gregor Fisher)",
+      "target": "Joe (Gregor Fisher)",
+      "value": 2.0175
+    },
+    {
+      "source": "Daniel (Liam Neeson)",
+      "target": "Daniel (Liam Neeson)",
+      "value": 4.6491
+    },
+    {
+      "source": "Karen (Emma Thompson)",
+      "target": "Daniel (Liam Neeson)",
+      "value": 1.7193
+    },
+    {
+      "source": "Daniel (Liam Neeson)",
+      "target": "Karen (Emma Thompson)",
+      "value": 1.7193
+    },
+    {
+      "source": "Karen (Emma Thompson)",
+      "target": "Karen (Emma Thompson)",
+      "value": 4.7368
+    },
+    {
+      "source": "Jack (Martin Freeman)",
+      "target": "Jack (Martin Freeman)",
+      "value": 3.0175
+    },
+    {
+      "source": "Judy (Joanna Page)",
+      "target": "Jack (Martin Freeman)",
+      "value": 3.0175
+    },
+    {
+      "source": "Jack (Martin Freeman)",
+      "target": "Judy (Joanna Page)",
+      "value": 3.0175
+    },
+    {
+      "source": "Judy (Joanna Page)",
+      "target": "Judy (Joanna Page)",
+      "value": 3.0175
+    },
+    {
+      "source": "Mark (Andrew Lincoln)",
+      "target": "Mark (Andrew Lincoln)",
+      "value": 4.9649
+    },
+    {
+      "source": "Peter (Chiwetel Ejiofor)",
+      "target": "Mark (Andrew Lincoln)",
+      "value": 2.7018
+    },
+    {
+      "source": "Mark (Andrew Lincoln)",
+      "target": "Peter (Chiwetel Ejiofor)",
+      "value": 2.7018
+    },
+    {
+      "source": "Peter (Chiwetel Ejiofor)",
+      "target": "Peter (Chiwetel Ejiofor)",
+      "value": 2.7018
+    },
+    {
+      "source": "Natalie (Martine McCutcheon)",
+      "target": "Natalie (Martine McCutcheon)",
+      "value": 3.6842
+    },
+    {
+      "source": "PM (Hugh Grant)",
+      "target": "Natalie (Martine McCutcheon)",
+      "value": 3.6842
+    },
+    {
+      "source": "Natalie (Martine McCutcheon)",
+      "target": "PM (Hugh Grant)",
+      "value": 3.6842
+    },
+    {
+      "source": "PM (Hugh Grant)",
+      "target": "PM (Hugh Grant)",
+      "value": 4.2456
+    },
+    {
+      "source": "Juliet (Keira Knightley)",
+      "target": "Juliet (Keira Knightley)",
+      "value": 2.2632
+    },
+    {
+      "source": "Mark (Andrew Lincoln)",
+      "target": "Juliet (Keira Knightley)",
+      "value": 2.2632
+    },
+    {
+      "source": "Peter (Chiwetel Ejiofor)",
+      "target": "Juliet (Keira Knightley)",
+      "value": 1.7544
+    },
+    {
+      "source": "Juliet (Keira Knightley)",
+      "target": "Mark (Andrew Lincoln)",
+      "value": 2.2632
+    },
+    {
+      "source": "Juliet (Keira Knightley)",
+      "target": "Peter (Chiwetel Ejiofor)",
+      "value": 1.7544
+    },
+    {
+      "source": "Colin (Kris Marshall)",
+      "target": "Colin (Kris Marshall)",
+      "value": 3.2105
+    },
+    {
+      "source": "Mark (Andrew Lincoln)",
+      "target": "Colin (Kris Marshall)",
+      "value": 0.9123
+    },
+    {
+      "source": "Colin (Kris Marshall)",
+      "target": "Mark (Andrew Lincoln)",
+      "value": 0.9123
+    },
+    {
+      "source": "Tony (Abdul Salis)",
+      "target": "Colin (Kris Marshall)",
+      "value": 2.3158
+    },
+    {
+      "source": "Colin (Kris Marshall)",
+      "target": "Tony (Abdul Salis)",
+      "value": 2.3158
+    },
+    {
+      "source": "Tony (Abdul Salis)",
+      "target": "Tony (Abdul Salis)",
+      "value": 2.3158
+    },
+    {
+      "source": "Sarah (Laura Linney)",
+      "target": "Mark (Andrew Lincoln)",
+      "value": 0.8421
+    },
+    {
+      "source": "Mark (Andrew Lincoln)",
+      "target": "Sarah (Laura Linney)",
+      "value": 0.8421
+    },
+    {
+      "source": "Sarah (Laura Linney)",
+      "target": "Sarah (Laura Linney)",
+      "value": 4.0351
+    },
+    {
+      "source": "Harry (Alan Rickman)",
+      "target": "Harry (Alan Rickman)",
+      "value": 4.6667
+    },
+    {
+      "source": "Karl (Rodrigo Santoro)",
+      "target": "Harry (Alan Rickman)",
+      "value": 0.8246
+    },
+    {
+      "source": "Mia (Heike Makatsch)",
+      "target": "Harry (Alan Rickman)",
+      "value": 2.9825
+    },
+    {
+      "source": "Sarah (Laura Linney)",
+      "target": "Harry (Alan Rickman)",
+      "value": 1.4386
+    },
+    {
+      "source": "Harry (Alan Rickman)",
+      "target": "Karl (Rodrigo Santoro)",
+      "value": 0.8246
+    },
+    {
+      "source": "Karl (Rodrigo Santoro)",
+      "target": "Karl (Rodrigo Santoro)",
+      "value": 2.5789
+    },
+    {
+      "source": "Mia (Heike Makatsch)",
+      "target": "Karl (Rodrigo Santoro)",
+      "value": 0.8246
+    },
+    {
+      "source": "Sarah (Laura Linney)",
+      "target": "Karl (Rodrigo Santoro)",
+      "value": 2.5789
+    },
+    {
+      "source": "Harry (Alan Rickman)",
+      "target": "Mia (Heike Makatsch)",
+      "value": 2.9825
+    },
+    {
+      "source": "Karl (Rodrigo Santoro)",
+      "target": "Mia (Heike Makatsch)",
+      "value": 0.8246
+    },
+    {
+      "source": "Mia (Heike Makatsch)",
+      "target": "Mia (Heike Makatsch)",
+      "value": 3.1579
+    },
+    {
+      "source": "Sarah (Laura Linney)",
+      "target": "Mia (Heike Makatsch)",
+      "value": 1.4386
+    },
+    {
+      "source": "Harry (Alan Rickman)",
+      "target": "Sarah (Laura Linney)",
+      "value": 1.4386
+    },
+    {
+      "source": "Karl (Rodrigo Santoro)",
+      "target": "Sarah (Laura Linney)",
+      "value": 2.5789
+    },
+    {
+      "source": "Mia (Heike Makatsch)",
+      "target": "Sarah (Laura Linney)",
+      "value": 1.4386
+    },
+    {
+      "source": "Sam (Thomas Sangster)",
+      "target": "Daniel (Liam Neeson)",
+      "value": 2.9474
+    },
+    {
+      "source": "Daniel (Liam Neeson)",
+      "target": "Sam (Thomas Sangster)",
+      "value": 2.9474
+    },
+    {
+      "source": "Sam (Thomas Sangster)",
+      "target": "Sam (Thomas Sangster)",
+      "value": 3.0877
+    },
+    {
+      "source": "Aurelia (Lúcia Moniz)",
+      "target": "Aurelia (Lúcia Moniz)",
+      "value": 2.193
+    },
+    {
+      "source": "Jamie (Colin Firth)",
+      "target": "Aurelia (Lúcia Moniz)",
+      "value": 2.193
+    },
+    {
+      "source": "Aurelia (Lúcia Moniz)",
+      "target": "Jamie (Colin Firth)",
+      "value": 2.193
+    },
+    {
+      "source": "Jamie (Colin Firth)",
+      "target": "Jamie (Colin Firth)",
+      "value": 2.5263
+    },
+    {
+      "source": "Karen (Emma Thompson)",
+      "target": "Harry (Alan Rickman)",
+      "value": 2.4912
+    },
+    {
+      "source": "PM (Hugh Grant)",
+      "target": "Harry (Alan Rickman)",
+      "value": 0.5789
+    },
+    {
+      "source": "Harry (Alan Rickman)",
+      "target": "Karen (Emma Thompson)",
+      "value": 2.4912
+    },
+    {
+      "source": "PM (Hugh Grant)",
+      "target": "Karen (Emma Thompson)",
+      "value": 0.7018
+    },
+    {
+      "source": "Harry (Alan Rickman)",
+      "target": "PM (Hugh Grant)",
+      "value": 0.5789
+    },
+    {
+      "source": "Karen (Emma Thompson)",
+      "target": "PM (Hugh Grant)",
+      "value": 0.7018
+    },
+    {
+      "source": "Mia (Heike Makatsch)",
+      "target": "Karen (Emma Thompson)",
+      "value": 0.807
+    },
+    {
+      "source": "Karen (Emma Thompson)",
+      "target": "Mia (Heike Makatsch)",
+      "value": 0.807
+    },
+    {
+      "source": "Karl (Rodrigo Santoro)",
+      "target": "Karen (Emma Thompson)",
+      "value": 0.4211
+    },
+    {
+      "source": "Sarah (Laura Linney)",
+      "target": "Karen (Emma Thompson)",
+      "value": 0.4211
+    },
+    {
+      "source": "Karen (Emma Thompson)",
+      "target": "Karl (Rodrigo Santoro)",
+      "value": 0.4211
+    },
+    {
+      "source": "Karen (Emma Thompson)",
+      "target": "Sarah (Laura Linney)",
+      "value": 0.4211
+    },
+    {
+      "source": "Jamie (Colin Firth)",
+      "target": "Harry (Alan Rickman)",
+      "value": 0.3509
+    },
+    {
+      "source": "Harry (Alan Rickman)",
+      "target": "Jamie (Colin Firth)",
+      "value": 0.3509
+    },
+    {
+      "source": "Karen (Emma Thompson)",
+      "target": "Jamie (Colin Firth)",
+      "value": 0.3509
+    },
+    {
+      "source": "Jamie (Colin Firth)",
+      "target": "Karen (Emma Thompson)",
+      "value": 0.3509
+    },
+    {
+      "source": "Natalie (Martine McCutcheon)",
+      "target": "Mia (Heike Makatsch)",
+      "value": 0.1754
+    },
+    {
+      "source": "PM (Hugh Grant)",
+      "target": "Mia (Heike Makatsch)",
+      "value": 0.1754
+    },
+    {
+      "source": "Mia (Heike Makatsch)",
+      "target": "Natalie (Martine McCutcheon)",
+      "value": 0.1754
+    },
+    {
+      "source": "Mia (Heike Makatsch)",
+      "target": "PM (Hugh Grant)",
+      "value": 0.1754
+    },
+    {
+      "source": "Natalie (Martine McCutcheon)",
+      "target": "Jack (Martin Freeman)",
+      "value": 0.1579
+    },
+    {
+      "source": "PM (Hugh Grant)",
+      "target": "Jack (Martin Freeman)",
+      "value": 0.1579
+    },
+    {
+      "source": "Sam (Thomas Sangster)",
+      "target": "Jack (Martin Freeman)",
+      "value": 0.1579
+    },
+    {
+      "source": "Natalie (Martine McCutcheon)",
+      "target": "Judy (Joanna Page)",
+      "value": 0.1579
+    },
+    {
+      "source": "PM (Hugh Grant)",
+      "target": "Judy (Joanna Page)",
+      "value": 0.1579
+    },
+    {
+      "source": "Sam (Thomas Sangster)",
+      "target": "Judy (Joanna Page)",
+      "value": 0.1579
+    },
+    {
+      "source": "Jack (Martin Freeman)",
+      "target": "Natalie (Martine McCutcheon)",
+      "value": 0.1579
+    },
+    {
+      "source": "Judy (Joanna Page)",
+      "target": "Natalie (Martine McCutcheon)",
+      "value": 0.1579
+    },
+    {
+      "source": "Sam (Thomas Sangster)",
+      "target": "Natalie (Martine McCutcheon)",
+      "value": 0.1579
+    },
+    {
+      "source": "Jack (Martin Freeman)",
+      "target": "PM (Hugh Grant)",
+      "value": 0.1579
+    },
+    {
+      "source": "Judy (Joanna Page)",
+      "target": "PM (Hugh Grant)",
+      "value": 0.1579
+    },
+    {
+      "source": "Sam (Thomas Sangster)",
+      "target": "PM (Hugh Grant)",
+      "value": 0.1579
+    },
+    {
+      "source": "Jack (Martin Freeman)",
+      "target": "Sam (Thomas Sangster)",
+      "value": 0.1579
+    },
+    {
+      "source": "Judy (Joanna Page)",
+      "target": "Sam (Thomas Sangster)",
+      "value": 0.1579
+    },
+    {
+      "source": "Natalie (Martine McCutcheon)",
+      "target": "Sam (Thomas Sangster)",
+      "value": 0.1579
+    },
+    {
+      "source": "PM (Hugh Grant)",
+      "target": "Sam (Thomas Sangster)",
+      "value": 0.1579
+    },
+    {
+      "source": "Natalie (Martine McCutcheon)",
+      "target": "Karen (Emma Thompson)",
+      "value": 0.1404
+    },
+    {
+      "source": "Karen (Emma Thompson)",
+      "target": "Natalie (Martine McCutcheon)",
+      "value": 0.1404
+    },
+    {
+      "source": "Billy (Bill Nighy)",
+      "target": "Aurelia (Lúcia Moniz)",
+      "value": 0.0175
+    },
+    {
+      "source": "Colin (Kris Marshall)",
+      "target": "Aurelia (Lúcia Moniz)",
+      "value": 0.0175
+    },
+    {
+      "source": "Daniel (Liam Neeson)",
+      "target": "Aurelia (Lúcia Moniz)",
+      "value": 0.0175
+    },
+    {
+      "source": "Harry (Alan Rickman)",
+      "target": "Aurelia (Lúcia Moniz)",
+      "value": 0.0175
+    },
+    {
+      "source": "Jack (Martin Freeman)",
+      "target": "Aurelia (Lúcia Moniz)",
+      "value": 0.0175
+    },
+    {
+      "source": "Joe (Gregor Fisher)",
+      "target": "Aurelia (Lúcia Moniz)",
+      "value": 0.0175
+    },
+    {
+      "source": "Judy (Joanna Page)",
+      "target": "Aurelia (Lúcia Moniz)",
+      "value": 0.0175
+    },
+    {
+      "source": "Karen (Emma Thompson)",
+      "target": "Aurelia (Lúcia Moniz)",
+      "value": 0.0175
+    },
+    {
+      "source": "Mark (Andrew Lincoln)",
+      "target": "Aurelia (Lúcia Moniz)",
+      "value": 0.0175
+    },
+    {
+      "source": "Natalie (Martine McCutcheon)",
+      "target": "Aurelia (Lúcia Moniz)",
+      "value": 0.0175
+    },
+    {
+      "source": "PM (Hugh Grant)",
+      "target": "Aurelia (Lúcia Moniz)",
+      "value": 0.0175
+    },
+    {
+      "source": "Sam (Thomas Sangster)",
+      "target": "Aurelia (Lúcia Moniz)",
+      "value": 0.0175
+    },
+    {
+      "source": "Tony (Abdul Salis)",
+      "target": "Aurelia (Lúcia Moniz)",
+      "value": 0.0175
+    },
+    {
+      "source": "Aurelia (Lúcia Moniz)",
+      "target": "Billy (Bill Nighy)",
+      "value": 0.0175
+    },
+    {
+      "source": "Colin (Kris Marshall)",
+      "target": "Billy (Bill Nighy)",
+      "value": 0.0175
+    },
+    {
+      "source": "Daniel (Liam Neeson)",
+      "target": "Billy (Bill Nighy)",
+      "value": 0.0175
+    },
+    {
+      "source": "Harry (Alan Rickman)",
+      "target": "Billy (Bill Nighy)",
+      "value": 0.0175
+    },
+    {
+      "source": "Jack (Martin Freeman)",
+      "target": "Billy (Bill Nighy)",
+      "value": 0.0175
+    },
+    {
+      "source": "Jamie (Colin Firth)",
+      "target": "Billy (Bill Nighy)",
+      "value": 0.0175
+    },
+    {
+      "source": "Judy (Joanna Page)",
+      "target": "Billy (Bill Nighy)",
+      "value": 0.0175
+    },
+    {
+      "source": "Karen (Emma Thompson)",
+      "target": "Billy (Bill Nighy)",
+      "value": 0.0175
+    },
+    {
+      "source": "Mark (Andrew Lincoln)",
+      "target": "Billy (Bill Nighy)",
+      "value": 0.0175
+    },
+    {
+      "source": "Natalie (Martine McCutcheon)",
+      "target": "Billy (Bill Nighy)",
+      "value": 0.0175
+    },
+    {
+      "source": "PM (Hugh Grant)",
+      "target": "Billy (Bill Nighy)",
+      "value": 0.0175
+    },
+    {
+      "source": "Sam (Thomas Sangster)",
+      "target": "Billy (Bill Nighy)",
+      "value": 0.0175
+    },
+    {
+      "source": "Tony (Abdul Salis)",
+      "target": "Billy (Bill Nighy)",
+      "value": 0.0175
+    },
+    {
+      "source": "Aurelia (Lúcia Moniz)",
+      "target": "Colin (Kris Marshall)",
+      "value": 0.0175
+    },
+    {
+      "source": "Billy (Bill Nighy)",
+      "target": "Colin (Kris Marshall)",
+      "value": 0.0175
+    },
+    {
+      "source": "Daniel (Liam Neeson)",
+      "target": "Colin (Kris Marshall)",
+      "value": 0.0175
+    },
+    {
+      "source": "Harry (Alan Rickman)",
+      "target": "Colin (Kris Marshall)",
+      "value": 0.0175
+    },
+    {
+      "source": "Jack (Martin Freeman)",
+      "target": "Colin (Kris Marshall)",
+      "value": 0.0175
+    },
+    {
+      "source": "Jamie (Colin Firth)",
+      "target": "Colin (Kris Marshall)",
+      "value": 0.0175
+    },
+    {
+      "source": "Joe (Gregor Fisher)",
+      "target": "Colin (Kris Marshall)",
+      "value": 0.0175
+    },
+    {
+      "source": "Judy (Joanna Page)",
+      "target": "Colin (Kris Marshall)",
+      "value": 0.0175
+    },
+    {
+      "source": "Karen (Emma Thompson)",
+      "target": "Colin (Kris Marshall)",
+      "value": 0.0175
+    },
+    {
+      "source": "Natalie (Martine McCutcheon)",
+      "target": "Colin (Kris Marshall)",
+      "value": 0.0175
+    },
+    {
+      "source": "PM (Hugh Grant)",
+      "target": "Colin (Kris Marshall)",
+      "value": 0.0175
+    },
+    {
+      "source": "Sam (Thomas Sangster)",
+      "target": "Colin (Kris Marshall)",
+      "value": 0.0175
+    },
+    {
+      "source": "Aurelia (Lúcia Moniz)",
+      "target": "Daniel (Liam Neeson)",
+      "value": 0.0175
+    },
+    {
+      "source": "Billy (Bill Nighy)",
+      "target": "Daniel (Liam Neeson)",
+      "value": 0.0175
+    },
+    {
+      "source": "Colin (Kris Marshall)",
+      "target": "Daniel (Liam Neeson)",
+      "value": 0.0175
+    },
+    {
+      "source": "Harry (Alan Rickman)",
+      "target": "Daniel (Liam Neeson)",
+      "value": 0.0175
+    },
+    {
+      "source": "Jack (Martin Freeman)",
+      "target": "Daniel (Liam Neeson)",
+      "value": 0.0175
+    },
+    {
+      "source": "Jamie (Colin Firth)",
+      "target": "Daniel (Liam Neeson)",
+      "value": 0.0175
+    },
+    {
+      "source": "Joe (Gregor Fisher)",
+      "target": "Daniel (Liam Neeson)",
+      "value": 0.0175
+    },
+    {
+      "source": "Judy (Joanna Page)",
+      "target": "Daniel (Liam Neeson)",
+      "value": 0.0175
+    },
+    {
+      "source": "Mark (Andrew Lincoln)",
+      "target": "Daniel (Liam Neeson)",
+      "value": 0.0175
+    },
+    {
+      "source": "Natalie (Martine McCutcheon)",
+      "target": "Daniel (Liam Neeson)",
+      "value": 0.0175
+    },
+    {
+      "source": "PM (Hugh Grant)",
+      "target": "Daniel (Liam Neeson)",
+      "value": 0.0175
+    },
+    {
+      "source": "Tony (Abdul Salis)",
+      "target": "Daniel (Liam Neeson)",
+      "value": 0.0175
+    },
+    {
+      "source": "Aurelia (Lúcia Moniz)",
+      "target": "Harry (Alan Rickman)",
+      "value": 0.0175
+    },
+    {
+      "source": "Billy (Bill Nighy)",
+      "target": "Harry (Alan Rickman)",
+      "value": 0.0175
+    },
+    {
+      "source": "Colin (Kris Marshall)",
+      "target": "Harry (Alan Rickman)",
+      "value": 0.0175
+    },
+    {
+      "source": "Daniel (Liam Neeson)",
+      "target": "Harry (Alan Rickman)",
+      "value": 0.0175
+    },
+    {
+      "source": "Jack (Martin Freeman)",
+      "target": "Harry (Alan Rickman)",
+      "value": 0.0175
+    },
+    {
+      "source": "Joe (Gregor Fisher)",
+      "target": "Harry (Alan Rickman)",
+      "value": 0.0175
+    },
+    {
+      "source": "Judy (Joanna Page)",
+      "target": "Harry (Alan Rickman)",
+      "value": 0.0175
+    },
+    {
+      "source": "Mark (Andrew Lincoln)",
+      "target": "Harry (Alan Rickman)",
+      "value": 0.0175
+    },
+    {
+      "source": "Natalie (Martine McCutcheon)",
+      "target": "Harry (Alan Rickman)",
+      "value": 0.0175
+    },
+    {
+      "source": "Sam (Thomas Sangster)",
+      "target": "Harry (Alan Rickman)",
+      "value": 0.0175
+    },
+    {
+      "source": "Tony (Abdul Salis)",
+      "target": "Harry (Alan Rickman)",
+      "value": 0.0175
+    },
+    {
+      "source": "Aurelia (Lúcia Moniz)",
+      "target": "Jack (Martin Freeman)",
+      "value": 0.0175
+    },
+    {
+      "source": "Billy (Bill Nighy)",
+      "target": "Jack (Martin Freeman)",
+      "value": 0.0175
+    },
+    {
+      "source": "Colin (Kris Marshall)",
+      "target": "Jack (Martin Freeman)",
+      "value": 0.0175
+    },
+    {
+      "source": "Daniel (Liam Neeson)",
+      "target": "Jack (Martin Freeman)",
+      "value": 0.0175
+    },
+    {
+      "source": "Harry (Alan Rickman)",
+      "target": "Jack (Martin Freeman)",
+      "value": 0.0175
+    },
+    {
+      "source": "Jamie (Colin Firth)",
+      "target": "Jack (Martin Freeman)",
+      "value": 0.0175
+    },
+    {
+      "source": "Joe (Gregor Fisher)",
+      "target": "Jack (Martin Freeman)",
+      "value": 0.0175
+    },
+    {
+      "source": "Karen (Emma Thompson)",
+      "target": "Jack (Martin Freeman)",
+      "value": 0.0175
+    },
+    {
+      "source": "Mark (Andrew Lincoln)",
+      "target": "Jack (Martin Freeman)",
+      "value": 0.0175
+    },
+    {
+      "source": "Tony (Abdul Salis)",
+      "target": "Jack (Martin Freeman)",
+      "value": 0.0175
+    },
+    {
+      "source": "Billy (Bill Nighy)",
+      "target": "Jamie (Colin Firth)",
+      "value": 0.0175
+    },
+    {
+      "source": "Colin (Kris Marshall)",
+      "target": "Jamie (Colin Firth)",
+      "value": 0.0175
+    },
+    {
+      "source": "Daniel (Liam Neeson)",
+      "target": "Jamie (Colin Firth)",
+      "value": 0.0175
+    },
+    {
+      "source": "Jack (Martin Freeman)",
+      "target": "Jamie (Colin Firth)",
+      "value": 0.0175
+    },
+    {
+      "source": "Joe (Gregor Fisher)",
+      "target": "Jamie (Colin Firth)",
+      "value": 0.0175
+    },
+    {
+      "source": "Judy (Joanna Page)",
+      "target": "Jamie (Colin Firth)",
+      "value": 0.0175
+    },
+    {
+      "source": "Mark (Andrew Lincoln)",
+      "target": "Jamie (Colin Firth)",
+      "value": 0.0175
+    },
+    {
+      "source": "Natalie (Martine McCutcheon)",
+      "target": "Jamie (Colin Firth)",
+      "value": 0.0175
+    },
+    {
+      "source": "PM (Hugh Grant)",
+      "target": "Jamie (Colin Firth)",
+      "value": 0.0175
+    },
+    {
+      "source": "Sam (Thomas Sangster)",
+      "target": "Jamie (Colin Firth)",
+      "value": 0.0175
+    },
+    {
+      "source": "Tony (Abdul Salis)",
+      "target": "Jamie (Colin Firth)",
+      "value": 0.0175
+    },
+    {
+      "source": "Aurelia (Lúcia Moniz)",
+      "target": "Joe (Gregor Fisher)",
+      "value": 0.0175
+    },
+    {
+      "source": "Colin (Kris Marshall)",
+      "target": "Joe (Gregor Fisher)",
+      "value": 0.0175
+    },
+    {
+      "source": "Daniel (Liam Neeson)",
+      "target": "Joe (Gregor Fisher)",
+      "value": 0.0175
+    },
+    {
+      "source": "Harry (Alan Rickman)",
+      "target": "Joe (Gregor Fisher)",
+      "value": 0.0175
+    },
+    {
+      "source": "Jack (Martin Freeman)",
+      "target": "Joe (Gregor Fisher)",
+      "value": 0.0175
+    },
+    {
+      "source": "Jamie (Colin Firth)",
+      "target": "Joe (Gregor Fisher)",
+      "value": 0.0175
+    },
+    {
+      "source": "Judy (Joanna Page)",
+      "target": "Joe (Gregor Fisher)",
+      "value": 0.0175
+    },
+    {
+      "source": "Karen (Emma Thompson)",
+      "target": "Joe (Gregor Fisher)",
+      "value": 0.0175
+    },
+    {
+      "source": "Mark (Andrew Lincoln)",
+      "target": "Joe (Gregor Fisher)",
+      "value": 0.0175
+    },
+    {
+      "source": "Natalie (Martine McCutcheon)",
+      "target": "Joe (Gregor Fisher)",
+      "value": 0.0175
+    },
+    {
+      "source": "PM (Hugh Grant)",
+      "target": "Joe (Gregor Fisher)",
+      "value": 0.0175
+    },
+    {
+      "source": "Sam (Thomas Sangster)",
+      "target": "Joe (Gregor Fisher)",
+      "value": 0.0175
+    },
+    {
+      "source": "Tony (Abdul Salis)",
+      "target": "Joe (Gregor Fisher)",
+      "value": 0.0175
+    },
+    {
+      "source": "Aurelia (Lúcia Moniz)",
+      "target": "Judy (Joanna Page)",
+      "value": 0.0175
+    },
+    {
+      "source": "Billy (Bill Nighy)",
+      "target": "Judy (Joanna Page)",
+      "value": 0.0175
+    },
+    {
+      "source": "Colin (Kris Marshall)",
+      "target": "Judy (Joanna Page)",
+      "value": 0.0175
+    },
+    {
+      "source": "Daniel (Liam Neeson)",
+      "target": "Judy (Joanna Page)",
+      "value": 0.0175
+    },
+    {
+      "source": "Harry (Alan Rickman)",
+      "target": "Judy (Joanna Page)",
+      "value": 0.0175
+    },
+    {
+      "source": "Jamie (Colin Firth)",
+      "target": "Judy (Joanna Page)",
+      "value": 0.0175
+    },
+    {
+      "source": "Joe (Gregor Fisher)",
+      "target": "Judy (Joanna Page)",
+      "value": 0.0175
+    },
+    {
+      "source": "Karen (Emma Thompson)",
+      "target": "Judy (Joanna Page)",
+      "value": 0.0175
+    },
+    {
+      "source": "Mark (Andrew Lincoln)",
+      "target": "Judy (Joanna Page)",
+      "value": 0.0175
+    },
+    {
+      "source": "Tony (Abdul Salis)",
+      "target": "Judy (Joanna Page)",
+      "value": 0.0175
+    },
+    {
+      "source": "Aurelia (Lúcia Moniz)",
+      "target": "Karen (Emma Thompson)",
+      "value": 0.0175
+    },
+    {
+      "source": "Billy (Bill Nighy)",
+      "target": "Karen (Emma Thompson)",
+      "value": 0.0175
+    },
+    {
+      "source": "Colin (Kris Marshall)",
+      "target": "Karen (Emma Thompson)",
+      "value": 0.0175
+    },
+    {
+      "source": "Jack (Martin Freeman)",
+      "target": "Karen (Emma Thompson)",
+      "value": 0.0175
+    },
+    {
+      "source": "Joe (Gregor Fisher)",
+      "target": "Karen (Emma Thompson)",
+      "value": 0.0175
+    },
+    {
+      "source": "Judy (Joanna Page)",
+      "target": "Karen (Emma Thompson)",
+      "value": 0.0175
+    },
+    {
+      "source": "Mark (Andrew Lincoln)",
+      "target": "Karen (Emma Thompson)",
+      "value": 0.0175
+    },
+    {
+      "source": "Sam (Thomas Sangster)",
+      "target": "Karen (Emma Thompson)",
+      "value": 0.0175
+    },
+    {
+      "source": "Tony (Abdul Salis)",
+      "target": "Karen (Emma Thompson)",
+      "value": 0.0175
+    },
+    {
+      "source": "Aurelia (Lúcia Moniz)",
+      "target": "Mark (Andrew Lincoln)",
+      "value": 0.0175
+    },
+    {
+      "source": "Billy (Bill Nighy)",
+      "target": "Mark (Andrew Lincoln)",
+      "value": 0.0175
+    },
+    {
+      "source": "Daniel (Liam Neeson)",
+      "target": "Mark (Andrew Lincoln)",
+      "value": 0.0175
+    },
+    {
+      "source": "Harry (Alan Rickman)",
+      "target": "Mark (Andrew Lincoln)",
+      "value": 0.0175
+    },
+    {
+      "source": "Jack (Martin Freeman)",
+      "target": "Mark (Andrew Lincoln)",
+      "value": 0.0175
+    },
+    {
+      "source": "Jamie (Colin Firth)",
+      "target": "Mark (Andrew Lincoln)",
+      "value": 0.0175
+    },
+    {
+      "source": "Joe (Gregor Fisher)",
+      "target": "Mark (Andrew Lincoln)",
+      "value": 0.0175
+    },
+    {
+      "source": "Judy (Joanna Page)",
+      "target": "Mark (Andrew Lincoln)",
+      "value": 0.0175
+    },
+    {
+      "source": "Karen (Emma Thompson)",
+      "target": "Mark (Andrew Lincoln)",
+      "value": 0.0175
+    },
+    {
+      "source": "Natalie (Martine McCutcheon)",
+      "target": "Mark (Andrew Lincoln)",
+      "value": 0.0175
+    },
+    {
+      "source": "PM (Hugh Grant)",
+      "target": "Mark (Andrew Lincoln)",
+      "value": 0.0175
+    },
+    {
+      "source": "Sam (Thomas Sangster)",
+      "target": "Mark (Andrew Lincoln)",
+      "value": 0.0175
+    },
+    {
+      "source": "Tony (Abdul Salis)",
+      "target": "Mark (Andrew Lincoln)",
+      "value": 0.0175
+    },
+    {
+      "source": "Aurelia (Lúcia Moniz)",
+      "target": "Natalie (Martine McCutcheon)",
+      "value": 0.0175
+    },
+    {
+      "source": "Billy (Bill Nighy)",
+      "target": "Natalie (Martine McCutcheon)",
+      "value": 0.0175
+    },
+    {
+      "source": "Colin (Kris Marshall)",
+      "target": "Natalie (Martine McCutcheon)",
+      "value": 0.0175
+    },
+    {
+      "source": "Daniel (Liam Neeson)",
+      "target": "Natalie (Martine McCutcheon)",
+      "value": 0.0175
+    },
+    {
+      "source": "Harry (Alan Rickman)",
+      "target": "Natalie (Martine McCutcheon)",
+      "value": 0.0175
+    },
+    {
+      "source": "Jamie (Colin Firth)",
+      "target": "Natalie (Martine McCutcheon)",
+      "value": 0.0175
+    },
+    {
+      "source": "Joe (Gregor Fisher)",
+      "target": "Natalie (Martine McCutcheon)",
+      "value": 0.0175
+    },
+    {
+      "source": "Mark (Andrew Lincoln)",
+      "target": "Natalie (Martine McCutcheon)",
+      "value": 0.0175
+    },
+    {
+      "source": "Tony (Abdul Salis)",
+      "target": "Natalie (Martine McCutcheon)",
+      "value": 0.0175
+    },
+    {
+      "source": "Aurelia (Lúcia Moniz)",
+      "target": "PM (Hugh Grant)",
+      "value": 0.0175
+    },
+    {
+      "source": "Billy (Bill Nighy)",
+      "target": "PM (Hugh Grant)",
+      "value": 0.0175
+    },
+    {
+      "source": "Colin (Kris Marshall)",
+      "target": "PM (Hugh Grant)",
+      "value": 0.0175
+    },
+    {
+      "source": "Daniel (Liam Neeson)",
+      "target": "PM (Hugh Grant)",
+      "value": 0.0175
+    },
+    {
+      "source": "Jamie (Colin Firth)",
+      "target": "PM (Hugh Grant)",
+      "value": 0.0175
+    },
+    {
+      "source": "Joe (Gregor Fisher)",
+      "target": "PM (Hugh Grant)",
+      "value": 0.0175
+    },
+    {
+      "source": "Mark (Andrew Lincoln)",
+      "target": "PM (Hugh Grant)",
+      "value": 0.0175
+    },
+    {
+      "source": "Tony (Abdul Salis)",
+      "target": "PM (Hugh Grant)",
+      "value": 0.0175
+    },
+    {
+      "source": "Aurelia (Lúcia Moniz)",
+      "target": "Sam (Thomas Sangster)",
+      "value": 0.0175
+    },
+    {
+      "source": "Billy (Bill Nighy)",
+      "target": "Sam (Thomas Sangster)",
+      "value": 0.0175
+    },
+    {
+      "source": "Colin (Kris Marshall)",
+      "target": "Sam (Thomas Sangster)",
+      "value": 0.0175
+    },
+    {
+      "source": "Harry (Alan Rickman)",
+      "target": "Sam (Thomas Sangster)",
+      "value": 0.0175
+    },
+    {
+      "source": "Jamie (Colin Firth)",
+      "target": "Sam (Thomas Sangster)",
+      "value": 0.0175
+    },
+    {
+      "source": "Joe (Gregor Fisher)",
+      "target": "Sam (Thomas Sangster)",
+      "value": 0.0175
+    },
+    {
+      "source": "Karen (Emma Thompson)",
+      "target": "Sam (Thomas Sangster)",
+      "value": 0.0175
+    },
+    {
+      "source": "Mark (Andrew Lincoln)",
+      "target": "Sam (Thomas Sangster)",
+      "value": 0.0175
+    },
+    {
+      "source": "Tony (Abdul Salis)",
+      "target": "Sam (Thomas Sangster)",
+      "value": 0.0175
+    },
+    {
+      "source": "Aurelia (Lúcia Moniz)",
+      "target": "Tony (Abdul Salis)",
+      "value": 0.0175
+    },
+    {
+      "source": "Billy (Bill Nighy)",
+      "target": "Tony (Abdul Salis)",
+      "value": 0.0175
+    },
+    {
+      "source": "Daniel (Liam Neeson)",
+      "target": "Tony (Abdul Salis)",
+      "value": 0.0175
+    },
+    {
+      "source": "Harry (Alan Rickman)",
+      "target": "Tony (Abdul Salis)",
+      "value": 0.0175
+    },
+    {
+      "source": "Jack (Martin Freeman)",
+      "target": "Tony (Abdul Salis)",
+      "value": 0.0175
+    },
+    {
+      "source": "Jamie (Colin Firth)",
+      "target": "Tony (Abdul Salis)",
+      "value": 0.0175
+    },
+    {
+      "source": "Joe (Gregor Fisher)",
+      "target": "Tony (Abdul Salis)",
+      "value": 0.0175
+    },
+    {
+      "source": "Judy (Joanna Page)",
+      "target": "Tony (Abdul Salis)",
+      "value": 0.0175
+    },
+    {
+      "source": "Karen (Emma Thompson)",
+      "target": "Tony (Abdul Salis)",
+      "value": 0.0175
+    },
+    {
+      "source": "Mark (Andrew Lincoln)",
+      "target": "Tony (Abdul Salis)",
+      "value": 0.0175
+    },
+    {
+      "source": "Natalie (Martine McCutcheon)",
+      "target": "Tony (Abdul Salis)",
+      "value": 0.0175
+    },
+    {
+      "source": "PM (Hugh Grant)",
+      "target": "Tony (Abdul Salis)",
+      "value": 0.0175
+    },
+    {
+      "source": "Sam (Thomas Sangster)",
+      "target": "Tony (Abdul Salis)",
+      "value": 0.0175
+    }
+  ]
+}
