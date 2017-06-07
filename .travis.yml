@@ -1,0 +1,26 @@
+language: python
+
+cache: pip
+sudo: false
+
+python:
+    - 2.7
+    - 3.4
+    - 3.5
+    - 3.6
+
+before_install:
+    - pip install -U pip
+    - pip install -U pytest pytest-cov codecov
+
+install:
+    - pip install -e .
+
+script:
+    - py.test --cov=networker
+
+after_success:
+    - codecov
+
+notifications:
+    email: false

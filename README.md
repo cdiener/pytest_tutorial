@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/cdiener/pytest_tutorial.svg?branch=complete)](https://travis-ci.org/cdiener/pytest_tutorial)
 [![Code Coverage](https://codecov.io/gh/cdiener/pytest_tutorial/branch/complete/graph/badge.svg)](https://codecov.io/gh/cdiener/pytest_tutorial)
 
+The talk presented at PythonDay 2017 can be found in [talk.pdf](talk.pdf).
+
 # Example project for pytest tutorial
 
 This example project implements a small app named "networker" that can draw
