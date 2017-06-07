@@ -1,0 +1,87 @@
+/**
+ * My own theme. Based on the league theme.
+ */
+
+
+// Default mixins and settings -----------------
+@import "../template/mixins";
+@import "../template/settings";
+// ---------------------------------------------
+
+
+
+// Include theme-specific fonts
+@import url(https://fonts.googleapis.com/css?family=Fira+Mono);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
+
+// Override theme settings (see ../template/settings.scss)
+$headingTextShadow: 0px 0px 6px rgba(50,50,50,0.5);
+$heading1TextShadow: 0 5px 8px rgba(50,50,50,0.75);
+
+$bg: #263238;
+// Background generator
+@mixin bodyBackground() {
+	@include radial-gradient( darken($bg, 10%), lighten($bg, 20%) );
+}
+
+$mainFont: 'Lato', 'Open Sans', 'Arial', sans-serif;
+$mainFontSize: 30px;
+$mainColor: #eee;
+$linkColor: #90CAF9;
+
+$heading1Size: 2em;
+$heading2Size: 1.5em;
+$heading3Size: 1.25em;
+$heading4Size: 1.00em;
+$headingFont: Lato, "Open Sans", sans-serif;
+
+
+// Theme template ------------------------------
+@import "../template/theme";
+// ---------------------------------------------
+
+.reveal code {
+	font-family: "Fira Mono", monospace;
+}
+
+// For column layouts
+.reveal div.spaced {
+	display: flex;
+	align-content: space-around;
+	justify-content: center;
+	flex-wrap: wrap;
+
+	> div, span, p {
+		min-width: 480px;
+	}
+}
+
+.reveal .footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+    margin: 0.5em 1em;
+    a {
+        font-size: 0.6em !important;
+        margin-right: 1em;
+        color: #E0F2F1;
+        align-items: center;
+    }
+
+    i {
+        font-size: 1em;
+        margin: 0 0.25em -0.1em 0;
+    }
+}
+
+.reveal .accent {
+    color: #FF4081;
+}
+
+@media (max-width: 600px) {
+    .reveal .footer {
+        font-size: 18px;
+    }
+}
