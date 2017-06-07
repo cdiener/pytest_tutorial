@@ -19,19 +19,29 @@ def json_file(filename):
 
 def validate(filename):
     """Check whether a file is a json file."""
-    with open(json_file(filename), "r") as f:
-        try:
-            json.load(f)
-            return True
-        except Exception:
-            return False
+    try:
+        with open(json_file(filename), "r") as f:
+            doc = json.load(f)
+            if "nodes" not in doc or "links" not in doc:
+                return False
+            good_nodes = all(field in node for field in ["id", "group"]
+                             for node in doc["nodes"])
+            good_links = all(field in link
+                             for field in ["source", "target", "value"]
+                             for link in doc["links"])
+            return good_nodes and good_links
+    except Exception:
+        return False
 
 
 @app.route("/json/<name>")
 def get_json(name):
     """Return the JSON representation of the graph."""
-    with open(json_file(name), "r") as f:
-        return Response(f.read(), mimetype="application/json")
+    if validate(name):
+        with open(json_file(name), "r") as f:
+            return Response(f.read(), mimetype="application/json")
+    else:
+        return render_template("error.html", name=json_file(name))
 
 
 @app.route("/validate/<name>")
@@ -48,6 +58,9 @@ def get_validation(name):
 @app.route("/<name>")
 def force_graph(name):
     """Render the graph."""
-    return render_template("force.html",
-                           url=url_for("get_json", name=name),
-                           name=name)
+    if validate(name):
+        return render_template("force.html",
+                               url=url_for("get_json", name=name),
+                               name=name)
+    else:
+        return render_template("error.html", name=json_file(name))
