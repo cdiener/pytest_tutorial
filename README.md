@@ -3,6 +3,8 @@
 
 The talk presented at PythonDay 2017 can be found in [talk.pdf](talk.pdf).
 
+No te asustes que la presentación es en inglés. La platicá sería en español 😅.
+
 # Example project for pytest tutorial
 
 This example project implements a small app named "networker" that can draw
