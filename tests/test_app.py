@@ -30,26 +30,26 @@ def test_bad_json(tmpdir):
 
 def test_get_json(test_app):
     resp = test_app.get("/json/love_actually")
-    content = json.loads(resp.data.decode())
+    content = json.loads(resp.get_data(True))
     assert "nodes" in content
     assert "links" in content
     resp = test_app.get("/json/whatever")
     assert resp.mimetype == "text/html"
-    assert "sorry" in resp.data.decode()
+    assert "sorry" in resp.get_data(True)
 
 
 def test_get_validation(test_app):
     resp = test_app.get("/validate/miserables")
     assert resp.mimetype == "text/plain"
-    assert "Yup" in resp.data.decode()
+    assert "Yup" in resp.get_data(True)
     resp = test_app.get("/validate/miserables123")
-    assert "Nope" in resp.data.decode()
+    assert "Nope" in resp.get_data(True)
 
 
 def test_force_graph(test_app):
     resp = test_app.get("/miserables")
     assert resp.mimetype == "text/html"
-    assert "svg" in resp.data.decode()
+    assert "svg" in resp.get_data(True)
     resp = test_app.get("/whatever")
     assert resp.mimetype == "text/html"
-    assert "sorry" in resp.data.decode()
+    assert "sorry" in resp.get_data(True)
