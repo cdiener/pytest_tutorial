@@ -228,7 +228,7 @@ after_success:
 
 ### Ok, we know pytest now!
 
-![](/assets/pr_giphy.gif) <!-- .element: style="width: 80%;"-->
+![](assets/pr_giphy.gif) <!-- .element: style="width: 80%;"-->
 
 ---
 
