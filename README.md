@@ -4,7 +4,7 @@
 The talk presented at PythonDay 2017 can be found interactively at
 https://pythondaymx.github.io/taller_testing or as PDF in [talk.pdf](talk.pdf).
 
-No te asustes que la presentación es en inglés. La platicá sería en español 😅.
+No te asustes que la presentación es en inglés. La plática es en español 😅.
 
 # Example project for pytest tutorial
 
