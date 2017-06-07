@@ -19,12 +19,12 @@ def json_file(filename):
 
 def validate(filename):
     """Check whether a file is a json file."""
-    with open(json_file(filename), "r") as f:
-        try:
+    try:
+        with open(json_file(filename), "r") as f:
             json.load(f)
             return True
-        except Exception:
-            return False
+    except Exception:
+        return False
 
 
 @app.route("/json/<name>")
