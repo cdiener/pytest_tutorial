@@ -2,13 +2,13 @@
 # Writing tests with pytest
 
 ### Christian Diener
-### Pythonday 2017
+### Pythonday 2017 <!-- .element: class="accent" -->
 
 ===
 
 ### Our example project
 
-https://github.com/cdiener/pytest_tutorial
+https://github.com/pythondaymx/taller_testing
 
 Clone/download please <i class="fa fa-smile-o"></i>.
 
@@ -45,6 +45,22 @@ A good unit test...
 
 ---
 
+## How much testing is sufficient?
+
+---
+
+## Test coverage
+
+<span class="accent">Coverage</span> is the percentage of your code that is
+covered by tests.
+
+There is no need to get 100% of coverage but it might help to identify sections
+of your code that are not well tested.
+
+Many big companies go for coverage in the ninety-ish area.
+
+---
+
 There are limits to what a unit test can do though...<br><br>
 > “No amount of testing can prove a software right, a single test can prove a software wrong.”
 > <br>\- Amir Ghahrai
@@ -53,7 +69,7 @@ There are limits to what a unit test can do though...<br><br>
 
 Ok got it!
 
-## But <span class="accent">how</span> do I write unit tests?
+## But <span class="accent">how</span> do I write and execute unit tests?
 
 ---
 
@@ -62,7 +78,7 @@ Ok got it!
 ---
 
 ```bash
-git clone https://github.com/cdiener/pytest_tutorial
+git clone https://github.com/pythondaymx/taller_testing
 cd pytest_tutorial
 
 pip install --user flask pytest pytest-cov  # or pip3 ...
@@ -75,15 +91,60 @@ pip install --user -e .
 
 Just running `py.test` in your package directory is ususall sufficient.
 
+```shell
+cdiener@pest [corda] py.test
+=========================== test session starts ============================
+platform linux -- Python 3.5.3, pytest-3.1.1, py-1.4.34, pluggy-0.4.0
+rootdir: /home/cdiener/code/corda, inifile:
+plugins: cov-2.4.0
+collected 27 items
+
+tests/test_large.py ......ss
+tests/test_simple.py .......
+tests/test_util.py ............
+
+=================== 25 passed, 2 skipped in 1.25 seconds ===================
+```
+
+---
+
 pytest will discover tests with the following rules:
 
-- filename must start with `test_*`
-- if the test is a function it also must start with `def test_*`
-- if the test is a class it should start with `class Test*`
+- filename must start or end with "test"
+- if the test is a function it also must start with "def test_"
+- if the test is a class it should start with "class Test*`
+
+---
+
+If you have `pytest-cov` installed you can get coverage output using the
+`--cov` flag.
+
+```bash
+py.test --cov=networker
+
+# with HTML output
+py.test --cov=networker --cov-report=html
+
+# To see missed lines afterwards
+# might be coverage3 on your system
+coverage report -m
+```
+
+---
+
+To exclude files from coverage reports add the following section to your
+`setup.cfg` file.
+
+```toml
+[coverage:run]
+omit = tests/*, */__main__.py
+```
 
 ---
 
 ## Writing unit tests for pytest
+
+---
 
 A pytest unit test is simply a function that includes an `assert` statement.
 
@@ -148,7 +209,7 @@ def test_find_123(string):
 
 Sometimes we expect code to raise an Exception.
 
-```Python
+```python
 import pytest
 
 def test_raises_error():
@@ -158,40 +219,20 @@ def test_raises_error():
 
 ---
 
-## Test coverage
+## Skipping tests conditionally
 
-<span class="accent">Coverage</span> is the percentage of your code that is
-covered by tests.
+```python
+import pytest
 
-There is no need to get 100% of coverage but it might help to identify sections
-of your code that are not well tested.
+try:
+    import numpy
+except ImportError:
+    numpy = False
 
-Many big companies go for coverage in the ninety-ish area.
-
----
-
-If you have `pytest-cov` installed you can get coverage output using the
-`--cov` flag.
-
-```bash
-py.test --cov=networker
-
-# with HTML output
-py.test --cov=networker --cov-report=html
-
-# To see missed lines afterwards
-# might be coverage3 on your system
-coverage report -m
-```
-
----
-
-To exclude files from coverage reports add the following section to your
-`setup.cfg` file.
-
-```toml
-[coverage:run]
-omit = tests/*, */__main__.py
+@pytest.mark.skipif(numpy, reason="requires numpy")
+def test_numpy_code() {
+...
+}
 ```
 
 ---
@@ -226,7 +267,7 @@ after_success:
 
 ---
 
-### Ok, we know pytest now!
+### Ok, we know pytest now 🎉
 
 ![](assets/pr_giphy.gif) <!-- .element: style="width: 80%;"-->
 
