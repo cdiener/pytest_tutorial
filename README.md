@@ -13,13 +13,27 @@ force layouts for a directory of JSON graphs.
 
 ## Installation
 
+### Requirements
+
+**Software**:
+
+- Python >=2.7.11 or >3.3
+- pip >= 8.1
+- a recent web browser
+- Optional: git, virtualenv
+
+**Abilities that will help you**:
+
+- know how to use your Terminal (changing directories, executing scripts)
+- basic Python (functions, imports, decorators)
+
 ### Optional: set up a virtual environment
 
 **For Python 2**:
 
 ```bash
 pip install virtualenv
-cd pytest_tutorial
+cd <tutorial folder>
 pyvenv env
 source env/bin/activate
 ```
@@ -27,14 +41,14 @@ source env/bin/activate
 **For Python 3**:
 
 ```bash
-cd pytest_tutorial
+cd <tutorial folder>
 python3 -m venv env
 source env/bin/activate
 ```
 
 ### Install pytest and the package in developer mode
 
-Run the following in the `pytest_tutorial` folder.
+Run the following in the tutorial folder.
 
 ```bash
 # May be pip3 on your system
@@ -44,7 +58,7 @@ pip install --user -e .
 
 ## Try the app
 
-Run the app in the `pytest_tutorial` folder with
+Run the app in the tutorial folder with
 
 ```bash
 # may be python3 on your system
