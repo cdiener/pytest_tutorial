@@ -14,12 +14,19 @@ Clone/download please <i class="fa fa-smile-o"></i>.
 
 ---
 
+## Why testing?
+
+Because we make assumptions in our code.
+
+---
+
 ## What is testing?
 
-Writing code to verify that other code works.
+> "[A test is] a contract between your current self and your future self."
+> <br>-- Eric Ma, PyCon 2017  
 
-Developer usually participates only in <span class="accent">unit testing</span>
-or integration testing.
+Writing code to verify that other code works gives us
+<span class="accent">unit tests</span>.
 
 ---
 
@@ -267,7 +274,7 @@ after_success:
 
 ---
 
-### Ok, we know pytest now 🎉
+### Ok, we know pytest now ✨
 
 ![](assets/pr_giphy.gif) <!-- .element: style="width: 80%;"-->
 
